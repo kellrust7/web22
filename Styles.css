@@ -3,6 +3,8 @@ body {
   margin-top: 65px;
 }
 header {
+  font-family: 'Poppins', sans-serif;
+  display: 200
   text-align: center;
 }
 .col {
