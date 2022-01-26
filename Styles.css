@@ -4,7 +4,6 @@ body {
 }
 header {
   font-family: 'Poppins', sans-serif;
-  display: 200
   text-align: center;
 }
 .col {
@@ -12,7 +11,7 @@ header {
 }
 h1 {
   font-size: 250%;
-  font-family: 'poppins', sans-serif;
+  font-family: 'Caveat', cursive;
   color: #OOOOOO;
   text-align: center;
 }
