@@ -1,6 +1,6 @@
 body {
-  background-color: #FFFFFF;
-  margin-top: 65px;
+  background-color: #ebebeb;
+  margin-top: 40px;
 }
 header {
   font-family: 'Poppins', sans-serif;
@@ -10,14 +10,15 @@ header {
   float: none;
 }
 h1 {
-  font-size: 250%;
-  font-family: 'Caveat', cursive;
-  color: #OOOOOO;
+  font-size: 100pt;
+  font-family: 'Poppins', sans-serif;
+  color: #A73333;
   text-align: center;
+  margin-bottom: 10px;
 }
 h2 {
   font-size: 25px;
-  color: #E86900;
+  color: #000000;
   line-height: 30px;
   font-family: 'poppins', sans-serif;
   text-align: center;
