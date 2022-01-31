@@ -13,7 +13,7 @@ main {
 }
 .boxed {
 	text-align: center;
-	width: 50%;
+	max-width: 90vh;
 	float: none;
 	margin-top: 10px;
 	margin-bottom: 50px;

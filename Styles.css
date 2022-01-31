@@ -1,3 +1,4 @@
+
 body {
   background-color: #ebebeb;
   margin-top: 40px;
@@ -5,6 +6,14 @@ body {
 header {
   font-family: 'Poppins', sans-serif;
   text-align: center;
+}
+.boxed {
+	text-align: center;
+	max-width: 90vh;
+	float: none;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
 }
 .col {
   float: none;
